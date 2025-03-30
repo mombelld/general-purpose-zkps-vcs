@@ -1,0 +1,30 @@
+spring:
+  docker:
+    compose:
+      enabled: true
+  datasource:
+    url: "jdbc:postgresql://localhost:5434/issuer_db"
+    username: "oid4vci_user"
+    password: "secret"
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create # when starting locally we connect to the db from compose.yml and generate the schema from hibernate
+
+logging:
+  level:
+    ch.admin.bj.swiyu: DEBUG
+
+application:
+  issuer-id: "did:example:123456789"
+  external-url: "http://localhost:8080"
+  token-ttl: 600
+  #  openid-file: "file:///data/openid.json"
+  openid-file: "classpath:openid.json"
+  metadata-file: "classpath:issuer_metadata.json"
+  key:
+    sdjwt:
+      private-key: "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIAs0WyAxFdOvqYML8t2Zy0otWO93eXnR5X1fa09hI6mDoAoGCCqGSM49\nAwEHoUQDQgAEJCe2BrwmpvMHw/J+hx6dGKCtRtv+X5fk8NNCXSSHr9owdxOyIaz9\nplC4UblhP2d7rIi52L4LKqEhp6cliJ5xuw==\n-----END EC PRIVATE KEY-----\n"
+    zk:
+      private-key: "97ddae0f3a25b92268175400149d65d6887b9cefaf28ea2c078e05cdc15a3c0a"
+

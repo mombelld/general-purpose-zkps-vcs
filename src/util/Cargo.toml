@@ -1,0 +1,9 @@
+[package]
+name = "util"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+spartan = { path = "../spartan" }
+secq256k1 = { path = "../secq256k1" }
+primeorder = "0.13.6"

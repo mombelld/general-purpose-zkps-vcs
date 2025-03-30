@@ -1,0 +1,24 @@
+{
+    "offer_id": "85fd7f5c-31cd-43f6-8c43-611bc5dd4714",
+    "vct": "diploma",
+    "offer_data": {
+        "data": {
+            "first_name": "Axel",
+            "last_name": "Andersson",
+            "email": "aa@mail.com",
+            "phone_number": "+41223334455",
+            "university": "ETHZ",
+            "degree": "Computer Science MSc",
+            "field": "Secure and Reliable Systems"
+        },
+        "cnf": {
+            "x": "61a993e56b14a8ed49cfb440f34290157da649494f8216b88a14a9d27a289b28", 
+            "y": "698b8954f942f41a285cfaaa428091cd7449cef94871decb92c8b58e31d915d5"
+        },
+        "cred_bind": "bf8332c57167ed2162de2792442b3ed49afe4adc807a123260f0108659d768c2",
+        "status_list": {"idx": 1124, "uri": "status_list_01"}
+    },
+    "nbf": "2025-02-25T00:00:00Z",
+    "exp": "2035-02-24T00:00:00Z"
+}
+

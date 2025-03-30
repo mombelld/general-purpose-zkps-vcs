@@ -1,0 +1,11 @@
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/main/target/debug/deps/libsec1-755f94a897f7163b.rmeta: /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/lib.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/point.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/error.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/parameters.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/private_key.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/traits.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/../README.md
+
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/main/target/debug/deps/sec1-755f94a897f7163b.d: /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/lib.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/point.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/error.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/parameters.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/private_key.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/traits.rs /home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/../README.md
+
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/lib.rs:
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/point.rs:
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/error.rs:
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/parameters.rs:
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/private_key.rs:
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/traits.rs:
+/home/damiano/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sec1-0.3.0/src/../README.md:

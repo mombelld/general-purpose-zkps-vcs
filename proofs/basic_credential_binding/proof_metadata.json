@@ -1,0 +1,15 @@
+{
+    "inputs": [
+        ["zk_r", "zk_s", "exp", "vct", "status_list_uri", "status_list_idx", "date_offset", "cred_bind", "birthdate", "locality", "nationality"],
+        ["zk_r", "zk_s", "exp", "vct", "date_offset", "cred_bind", "university"]
+    ],
+    "order": [
+        ["iss", "vct", "iat", "nbf", "exp", "status_list_idx", "status_list_uri", "cnf_jwk_x", "cnf_jwk_y", "cred_bind", "date_offset", "first_name", "last_name", "email", "phone_number", "nationality", "address", "locality", "canton", "postcode", "country", "birthdate"],
+        ["iss", "vct", "iat", "nbf", "exp", "status_list_idx", "status_list_uri", "cnf_jwk_x", "cnf_jwk_y", "cred_bind", "date_offset", "first_name", "last_name", "email", "phone_number", "university", "degree", "field"]
+    ],
+    "type": [
+        ["string", "string", "date", "date", "date", "number", "string", "number", "number", "string", "number", "string", "string", "string", "string", "string", "string", "string", "string", "number", "string", "date-time"],
+        ["string", "string", "date", "date", "date", "number", "string", "number", "number", "string", "number", "string", "string", "string", "string", "string", "string", "string"]
+    ],
+    "prefix": ["identity_", "diploma_"]
+}

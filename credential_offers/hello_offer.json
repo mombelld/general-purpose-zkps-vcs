@@ -1,0 +1,12 @@
+{
+    "offer_id": "1c2e0220-ac16-493a-9ab8-cdd7c4307309",
+    "vct": "hello_sdjwt",
+    "offer_data": {
+        "data": {"hello": "world", "hallo": 0},
+        "cnf": {"x": "0", "y": "0"},
+        "cred_bind": "42",
+        "status_list": {"idx": 1124, "uri": "status_list_01"}
+    },
+    "nbf": "2025-02-25T00:00:00Z",
+    "exp": "2035-02-24T00:00:00Z"
+}

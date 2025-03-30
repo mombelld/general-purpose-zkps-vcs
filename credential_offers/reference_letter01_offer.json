@@ -1,0 +1,24 @@
+{
+    "offer_id": "aa85d1d4-b73e-4cd1-a8db-f31d5c846a0f",
+    "vct": "reference_letter",
+    "offer_data": {
+        "data": {
+            "first_name": "Axel",
+            "last_name": "Andersson",
+            "email": "aa@mail.com",
+            "phone_number": "+41223334455",
+            "employer": "Company 2",
+            "profession": "Security Analyst",
+            "start_date": "2014-02-02T00:00:00z",
+            "end_date": "2015-02-02T00:00:00z"
+        },
+        "cnf": {
+            "x": "61a993e56b14a8ed49cfb440f34290157da649494f8216b88a14a9d27a289b28", 
+            "y": "698b8954f942f41a285cfaaa428091cd7449cef94871decb92c8b58e31d915d5"
+        },
+        "cred_bind": "bf8332c57167ed2162de2792442b3ed49afe4adc807a123260f0108659d768c2",
+        "status_list": {"idx": 1124, "uri": "status_list_01"}
+    },
+    "nbf": "2025-02-25T00:00:00Z",
+    "exp": "2035-02-24T00:00:00Z"
+}

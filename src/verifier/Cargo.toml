@@ -1,0 +1,11 @@
+[package]
+name = "verifier"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+spartan = { path = "../spartan" }
+circuit_reader = { path = "../circuit_reader" }
+witness_reader = { path = "../witness_reader" }
+merlin = "3.0.0"
+thiserror = "2.0.11"

@@ -1,0 +1,11 @@
+[package]
+name = "witness_reader"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+byteorder = "1.5.0"
+ff = "0.13.0"
+itertools = "0.14.0"
+spartan = { path = "../spartan" }
+secq256k1 = { path = "../secq256k1" }

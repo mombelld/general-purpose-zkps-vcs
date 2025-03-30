@@ -1,0 +1,6 @@
+ecdsa
+pycryptodome
+galois
+numpy
+bitstring
+python-dateutil

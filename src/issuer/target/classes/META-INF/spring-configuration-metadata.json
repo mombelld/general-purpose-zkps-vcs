@@ -1,0 +1,79 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.ApplicationProperties",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.ApplicationProperties"
+    },
+    {
+      "name": "application.key.sdjwt",
+      "type": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.data-integrity-jwks",
+      "type": "java.lang.String",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.ApplicationProperties"
+    },
+    {
+      "name": "application.issuer-id",
+      "type": "java.lang.String",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.ApplicationProperties"
+    },
+    {
+      "name": "application.key.sdjwt.hsm",
+      "type": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.HSMProperties",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.key.sdjwt.key-management-method",
+      "type": "java.lang.String",
+      "description": "Method of signing key management",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.key.sdjwt.pkcs11-config",
+      "type": "java.lang.String",
+      "description": "Location of the config file, see the <a href=\"https:\/\/docs.oracle.com\/en\/java\/javase\/21\/security\/pkcs11-reference-guide1.html\">official java documentation<\/a>",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.key.sdjwt.private-key",
+      "type": "java.lang.String",
+      "description": "Private Key, if the key is not managed by HSM This includes vault or just mounted as environment variable",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.key.sdjwt.verification-method",
+      "type": "java.lang.String",
+      "description": "The id of the verification method in the did document with which a verifier can check the issued VC In did tdw\/webvc this is the full did#fragment",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.key.sdjwt.version",
+      "type": "java.lang.String",
+      "description": "The version of the sd-jwt schema",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.key.sdjwt.zk-signing-key",
+      "type": "java.lang.String",
+      "description": "Private Key for ZK root signing, always secp256k1",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.SdjwtProperties"
+    },
+    {
+      "name": "application.template-replacement",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "description": "Replacement Values for providing replacement template values for issuer metadata & openid configuration json Key is the value to be replaced, the value is the value it will be replaced with.",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.ApplicationProperties"
+    },
+    {
+      "name": "application.token-t-t-l",
+      "type": "java.lang.Long",
+      "sourceType": "ch.admin.bj.swiyu.issuer.oid4vci.common.config.ApplicationProperties"
+    }
+  ],
+  "hints": []
+}

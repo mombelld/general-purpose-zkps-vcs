@@ -1,0 +1,9 @@
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/ArchitectureTest.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/common/utils/TimeUtilsTest.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/domain/credentialoffer/TokenStatusListTokenTest.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/infrastructure/web/controller/IssuanceControllerIT.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/service/CredentialServiceTest.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/service/SdJwtCredentialIT.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/test/CredentialOfferTestData.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/test/JwtTestUtils.java
+/home/damiano/MT/2024_Damiano-Mombelli_ZKP-for-Verifiable-Credentials/workspace/demo/src/issuer/src/test/java/ch/admin/bj/swiyu/issuer/oid4vci/test/TestUtils.java

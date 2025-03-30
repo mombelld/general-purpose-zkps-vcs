@@ -1,0 +1,12 @@
+[package]
+name = "prover"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+merlin = "3.0.0"
+bincode = "1.3.3"
+spartan = { path = "../spartan" }
+circuit_reader = { path = "../circuit_reader" }
+witness_reader = { path = "../witness_reader" }
+sd-jwt-rs = "0.7.1"
