@@ -28,5 +28,5 @@ cd /demo/script
 Run end-to-end example
 
 ```text
-cd basic_verification.sh
+./basic_verification.sh
 ```
