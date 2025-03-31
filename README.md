@@ -4,7 +4,7 @@ This repository contains a proof-of-concept implementation of a verifiable crede
 
 <span style="color:red">**WARNING:**</span>: this is an academic proof-of-concept prototype, and in particular it has received neither careful code review nor extensive testing. This implementation is NOT for production use.
 
-# Building and Running Locally
+## Building and Running Locally
 
 1. Install [docker](https://www.docker.com/)
 
@@ -18,7 +18,7 @@ This repository contains a proof-of-concept implementation of a verifiable crede
     make run-docker-image
     ```
 
-# Example End-to-End Proof
+## Example End-to-End Proof
 Go to folder containing example scripts
 
 ```text
