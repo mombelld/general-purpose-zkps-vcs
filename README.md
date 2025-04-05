@@ -2,7 +2,7 @@
 
 This repository contains a proof-of-concept implementation of a verifiable credentials infrastructure based on general-purpose zero-knowledge proofs. It is meant as a companion to the master's thesis [General-Purpose Zero-Knowledge Proofs for Verifiable Credentials](GeneralPurposeZeroKnowledgeProofsForVerifiableCredentials.pdf). For the implementation details and how to use it we refer to Section 5 of the thesis.
 
-<span style="color:red">**WARNING:**</span>: this is an academic proof-of-concept prototype, and in particular it has received neither careful code review nor extensive testing. This implementation is NOT for production use.
+<span style="color:red">**WARNING**</span>: this is an academic proof-of-concept prototype, and in particular it has received neither careful code review nor extensive testing. This implementation is NOT for production use.
 
 ## Building and Running Locally
 
