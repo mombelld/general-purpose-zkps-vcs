@@ -30,3 +30,11 @@ Run end-to-end example
 ```text
 ./basic_verification.sh
 ```
+
+## Acknowledgments
+
+Thise repository contains third-party components which are released under different licenses, namely
+- `circom` (GLP-3.0)
+- `circomlib` (LGLP-3.0)
+
+Additionally, we modified the source code of `circom` to add support for secp256k1
