@@ -34,7 +34,7 @@ Run end-to-end example
 ## Acknowledgments
 
 Thise repository contains third-party components which are released under different licenses, namely
-- `circom` (GLP-3.0)
-- `circomlib` (LGLP-3.0)
+- `circom` (GPL-3.0)
+- `circomlib` (LGPL-3.0)
 
 Additionally, we modified the source code of `circom` to add support for secp256k1
