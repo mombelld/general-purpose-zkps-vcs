@@ -37,4 +37,4 @@ Thise repository contains third-party components which are released under differ
 - `circom` (GPL-3.0)
 - `circomlib` (LGPL-3.0)
 
-Additionally, we modified the source code of `circom` to add support for secp256k1
+Additionally, we modified the source code of `circom` to add support for secq256k1
